@@ -1,0 +1,31 @@
+-Juego Bryant Vivas-
+Marina Sokoban
+
+Instalación:
+-Extraer el contenido del archivo .RAR
+-Abrir un IDE de programación de JAVA (si es NetBeans mejor)
+-Mediante el IDE de programación, abrir el proyecto con el nombre "Juego Bryant Vivas"
+-Ejecutar el programa
+-Disfrutar
+
+Instrucciones: 
+
+? Movimiento ?
+-Te mueves con las flechas direcciones (arriba, abajo, izquierda, derecha)
+-Solo puedes moverte a través de los pasillos
+-Los muros impiden tu movimiento
+-Las cajas impiden tu movimiento cuando llegan hasta un muro de resto las puedes mover
+
+? Dinámica •
+-Debes completar los rompecabezas colocando cada caja en almenos una posición indicada.
+-La posición indicada esta marcada con un círculo amarillo en alguna parte del nivel
+-Al posicionar cada caja en almenos un círculo habras completado el nivel
+
+Consejos:
+-Reiniciar el nivel en caso de quedar atascado
+-Intentar de resolver en la menor cantidad de movimientos
+-Puede volver a jugar el nivel cuantas veces quiera
+
+Créditos:
+
+"Kakao Games" Empresa desarrolladora del videojuego "Guardian Tales" creadores del persona "Gran Almirante Marina" y de su arte conceptual y "sprite" utilizados en este videojuego de manera de persona para el desarrollo de este.
